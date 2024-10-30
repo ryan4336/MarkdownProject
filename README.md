@@ -1,9 +1,9 @@
 # MarkdownProject
-This repository showcases some of my interests. Below are link to various topics I find interesting/fun.
+This repository showcases some of my interests/experiences.
 ## Topics
-- [Topic 1](skiing.md)
-- [Topic 2](videoGames.md)
-- [Topic 3](space.md)
+- [Skiing for the first time](skiing.md)
+- [Favorite videogames](videoGames.md)
+- [Space is interesting](space.md)
 
 ## *About Me*
 I am a 19-year-old Sophomore at the University of Missouri. I am majoring in Information Tecknology and have enjoyed coding in both Python and C# so far. I am excited to learn about other coding languages.
