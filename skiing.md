@@ -5,5 +5,6 @@ Staying in a single hotel room with six other people was definitely an experienc
 It wasn't necessarily a bad one, although it was hard to sleep (for me at least) because of the two **loud breathers** we had in the room with us.
 ## Learning to Ski
 Like I said, this was my first time skiing ever, and the first day was rough. It was fun but also frustrating. However, on the second day, I really started to pick it up fast, and before I knew it I was cruising down blue slopes (although I did fall many times).
-In the end, I had a lot of fun and it was way easier to pick up than I though. I hope to be able to go again sometime soon. 
+In the end, I had a lot of fun and it was way easier to pick up than I though. I hope to be able to go again sometime soon.
 
+[Return To Main](README.md)
